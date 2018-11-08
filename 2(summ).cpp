@@ -1,4 +1,4 @@
-#include <iostream>
+#include <iostream> /*найти сумму нечетных цифр числа*/
 #include <stdio.h>
 #include <math.h>
 using namespace std;
