@@ -1,5 +1,5 @@
-#include <iostream>
-#include <stdio.h>
+#include <iostream> /*найти k-тое сверхпростое число, если обусловлено называть простое число сверхпростым, если его*/
+#include <stdio.h>  /*номер в последовательности тоже простой*/
 #include <math.h>
 using namespace std;
 int prime (int a)
