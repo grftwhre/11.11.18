@@ -1,4 +1,4 @@
-#include <iostream>
+#include <iostream> /*Найти последнюю цифру результата возведения числа А в степень В*/
 #include <stdio.h>
 using namespace std;
 int power (long long A, long long B)
