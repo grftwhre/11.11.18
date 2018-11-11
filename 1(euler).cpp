@@ -1,4 +1,4 @@
-#include <iostream>
+#include <iostream> /*найти количество чисел взаимнопростых с введенным числом (функция эйлера)*/
 #include <stdio.h>
 using namespace std;
 int prime(int a)
